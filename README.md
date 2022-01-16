@@ -1,1 +1,1 @@
-# Certificação Zend PHP 7
+# Guia de Estudos para Certificação Zend PHP 7
