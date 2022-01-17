@@ -2,11 +2,11 @@
 
 ## Tópicos sugeridos para estudo: 
 
-- PHP Basics
-    - Syntax
-    - Operators
-    - Variables
-    - Control Structures
+- PHP Básico
+    - Sintaxe
+    - Operadores
+    - Variáveis
+    - Estrutura de Controle
     - Language Constructs and Functions
     - Namespaces
     - Extensions
