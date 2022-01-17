@@ -3,15 +3,15 @@
 ## Tópicos sugeridos para estudo: 
 
 - PHP Basics
--- Syntax
-    Operators
-    Variables
-    Control Structures
-    Language Constructs and Functions
-    Namespaces 
-    Extensions
-    Config
-    Performance/bytecode caching
+    - Syntax
+    - Operators
+    - Variables
+    - Control Structures
+    - Language Constructs and Functions
+    - Namespaces
+    - Extensions
+    - Config
+    - Performance/bytecode caching
 
 Functions
 
