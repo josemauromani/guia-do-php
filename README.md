@@ -4,13 +4,13 @@
 
 1. PHP Básico
     1. Sintaxe
-        1.1. O que é sintaxe?
+    2. Variáveis
+    3. Operadores
+    4. Estrutura de Controle
 
+---
 
-    - Operadores
-    - Variáveis
-    - Estrutura de Controle
-    - Language Constructs and Functions
+    -Language Constructs and Functions
     - Namespaces
     - Extensions
     - Config
