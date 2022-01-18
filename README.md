@@ -3,8 +3,8 @@
 ## Tópicos sugeridos para estudo: 
 
 1. PHP Básico
-1.1. Sintaxe
-1.1.1. O que é sintaxe?
+    1.1. Sintaxe
+        1.1.1. O que é sintaxe?
 
 
     - Operadores
