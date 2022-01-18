@@ -2,8 +2,8 @@
 
 ## Tópicos sugeridos para estudo: 
 
-- PHP Básico
-    - Sintaxe
+1. PHP Básico
+    1.1. Sintaxe
     - Operadores
     - Variáveis
     - Estrutura de Controle
