@@ -7,14 +7,11 @@
     2. Variáveis
     3. Operadores
     4. Estrutura de Controle
-
----
-
-    -Language Constructs and Functions
-    - Namespaces
-    - Extensions
-    - Config
-    - Performance/bytecode caching
+    5. Language Constructs and Functions
+    6. Namespaces
+    7. Extensions
+    8. Configuração
+    9. Performance/bytecode caching
 
 Functions
 
