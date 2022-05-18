@@ -6,7 +6,7 @@
 ### Módulo 1 - PHP Básico
     
     1. Introdução ao PHP
-    1.1 Como surgiu o PHP
+        1.1 Como surgiu o PHP
     2. Sintaxe
     2. Variáveis
     3. Operadores
