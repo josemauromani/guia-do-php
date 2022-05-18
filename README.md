@@ -3,7 +3,8 @@
 ## Tópicos sugeridos para estudo: 
 
 
-Módulo 1. PHP Básico
+### Módulo 1 - PHP Básico
+    
     1. Introdução ao PHP
     2. Sintaxe
     2. Variáveis
