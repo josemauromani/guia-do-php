@@ -1,9 +1,11 @@
-# Guia de Estudos para Certificação Zend PHP 7
+# Guia de Estudos em PHP
 
 ## Tópicos sugeridos para estudo: 
 
-1. PHP Básico
-    1. Sintaxe
+
+Módulo 1. PHP Básico
+    1. Introdução ao PHP
+    2. Sintaxe
     2. Variáveis
     3. Operadores
     4. Estrutura de Controle
